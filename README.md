@@ -119,13 +119,14 @@ KNN
 Random Forest Classifer
 
 
+### Video Presentation 
+https://youtu.be/n5mY__b6nV8
 
 
 
 
 
-
-References:
+### References:
 Bonthu, H. (2023, April 18). KModes clustering algorithm for categorical data. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2021/06/kmodes-clustering-algorithm-for-categorical-data/
 
 
