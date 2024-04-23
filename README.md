@@ -6,16 +6,14 @@ This is a Mini project for SC1015, Titled as Optimizing Marketing Strategies wit
 
 ## Files Included:
 
-1. Slides:The Powerpoint slides for the video.
-
-2.Jupyter Notebook
+1,Jupyter Notebook
   
-3. Marketing_Campaign.csv :Contained within is the dataset sourced from kaggle.
+2,Marketing_Campaign.csv :Contained within is the dataset sourced from kaggle.
 
-4. ### Video Presentation 
+3, Video Presentation 
 https://youtu.be/n5mY__b6nV8
 
-5. ### PowerPoint Presentation
+4, PowerPoint Presentation
 https://www.canva.com/design/DAGCpT6Lf1w/DFxd6B6baC5T0qCkF1xXKA/edit?utm_content=DAGCpT6Lf1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
