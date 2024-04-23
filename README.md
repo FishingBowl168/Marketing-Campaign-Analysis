@@ -3,9 +3,9 @@
 
 
 Contributors: 
-| Contributors    | Github account  | Contirbution    |
+| Contributors    | Github account  | Contribution    |
 |-----------------|-----------------|-----------------|
-| Angelina        | Row 1, Col 2    | Row 1, Col 3    |
+| Angelina        | @fishingbowl169 |    |
 | Feng Yuan       | Row 2, Col 2    | Row 2, Col 3    |
 | Gayathri        | Row 2, Col 2    | Row 2, Col 3    |
 
@@ -16,11 +16,11 @@ This is a Mini project for SC1015, Titled as Optimizing Marketing Strategies wit
 
 ## Files Included:
 
-1,Slides:The Powerpoint slides for the video.
+1. Slides:The Powerpoint slides for the video.
 
-2,Jupyter Notebook
+2.Jupyter Notebook
   
-3,DataSets:Contained within is the dataset sourced from kaggle.
+3. Marketing_Campaign.csv :Contained within is the dataset sourced from kaggle.
 
 
 
@@ -65,13 +65,19 @@ Standard scaling
 
 ## Models Used:
 Model 1: Linear Regression suggests family size, income, age, and parenthood are key predictors of customer expenditure.
+
 Model 2: Logistic Regression indicates age and income are significant over other factors.
+
 Model 3: GBM Regressor shows family size and income are more critical than in Model 2, with better expenditure prediction accuracy.
+
 Model 4: Hill Climbing focuses on maximizing profits using family size and income, finding optimal points for profit maximization.
+
 Models 5-7: Clustering (Agglomerative, K-means, DBSCAN) identifies four main target groups and highlights age, income, and family size as proportional to expenditure. Agglomerative Clustering, chosen as the best fit, evenly considers all dataset features, making it a suitable expenditure predictor.
+
 Model 8: Random Forest Classifier identifies features like wine, income, and expenditure as key to impacting accepted promotions.
+
 Model 9: KNN is useful for customer recommendations on websites, enhancing customer engagement.
-Agglomerative Clustering could be the most suitable for predicting customer features due to its holistic approach in considering all features equally.
+
 
 
 ## Conclusion:
@@ -95,10 +101,10 @@ Overall, the models point to age, income and family size as suitable features on
 
 
 ## Outcome and what can the seller do to improve:
-1, add the recommendation system (generated from knn) to their website
-2, meat and wine bring the most revenue
-3,a focus on websites and online promotions may work well in improving revenue for company
-4, campaigns did better than deals though it decreased over time. Companies can improve on promotions and make them more appealing to ensure continued participation
+1. add the recommendation system (generated from knn) to their website
+2. meat and wine bring the most revenue
+3. a focus on websites and online promotions may work well in improving revenue for company
+4. campaigns did better than deals though it decreased over time. Companies can improve on promotions and make them more appealing to ensure continued participation
 
 ## what did we learn from this project?:
 
@@ -128,10 +134,6 @@ scikit-learn developers. (2023). sklearn.preprocessing.LabelEncoder.Retrieved Ap
 Tran, J. (2021, December 14). Random Forest Classifier in Python - Towards Data Science. Medium. https://towardsdatascience.com/my-random-forest-classifier-cheat-sheet-in-python-fedb84f8cf4f
 
 
-Contribution
-1, codes: Angelina, Fengyuan, Gayathri
-2, slides and videos:  Angelina, Fengyuan, Gayathri
-3, script and readme: Angelina, Fengyuan, Gayathri
 
 
 
