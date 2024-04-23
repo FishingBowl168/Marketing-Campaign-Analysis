@@ -122,6 +122,9 @@ Random Forest Classifer
 ### Video Presentation 
 https://youtu.be/n5mY__b6nV8
 
+### PowerPoint Presentation
+https://www.canva.com/design/DAGCpT6Lf1w/DFxd6B6baC5T0qCkF1xXKA/edit?utm_content=DAGCpT6Lf1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 
 
