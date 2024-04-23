@@ -6,8 +6,8 @@ Contributors:
 | Contributors    | Github account  | Contribution    |
 |-----------------|-----------------|-----------------|
 | Angelina        | @fishingbowl169 |    |
-| Feng Yuan       | Row 2, Col 2    | Row 2, Col 3    |
-| Gayathri        | Row 2, Col 2    | Row 2, Col 3    |
+| Feng Yuan       | @leftrightworld | Row 2, Col 3    |
+| Gayathri        | @GAF2004        |                 |
 
 
 ## About:
