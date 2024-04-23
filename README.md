@@ -3,11 +3,11 @@
 
 
 Contributors: 
-| Contributors    | Github account  | Contribution    |
-|-----------------|-----------------|-----------------|
-| Angelina        | @fishingbowl169 |    |
-| Feng Yuan       | @leftrightworld | Row 2, Col 3    |
-| Gayathri        | @GAF2004        |                 |
+| Contributors    | Github account  | Contribution     |
+|-----------------|-----------------|------------------|
+| Angelina        | @fishingbowl169 | video,code,slide |
+| Feng Yuan       | @leftrightworld | video,code,slide |
+| Gayathri        | @GAF2004        | video,code,slide |
 
 
 ## About:
