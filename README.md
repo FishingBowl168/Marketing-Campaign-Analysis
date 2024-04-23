@@ -12,6 +12,14 @@ This is a Mini project for SC1015, Titled as Optimizing Marketing Strategies wit
   
 3. Marketing_Campaign.csv :Contained within is the dataset sourced from kaggle.
 
+4. ### Video Presentation 
+https://youtu.be/n5mY__b6nV8
+
+5. ### PowerPoint Presentation
+https://www.canva.com/design/DAGCpT6Lf1w/DFxd6B6baC5T0qCkF1xXKA/edit?utm_content=DAGCpT6Lf1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
 
 
 
@@ -107,14 +115,6 @@ K-Mean
 DBSCAN
 KNN
 Random Forest Classifer
-
-
-### Video Presentation 
-https://youtu.be/n5mY__b6nV8
-
-### PowerPoint Presentation
-https://www.canva.com/design/DAGCpT6Lf1w/DFxd6B6baC5T0qCkF1xXKA/edit?utm_content=DAGCpT6Lf1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 
 
 Contributors: 
