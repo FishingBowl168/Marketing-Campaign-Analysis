@@ -1,15 +1,5 @@
 # Marketing-Campaign-Analysis
 
-
-
-Contributors: 
-| Contributors    | Github account  | Contribution     |
-|-----------------|-----------------|------------------|
-| Angelina        | @fishingbowl169 | video,code,slide |
-| Feng Yuan       | @leftrightworld | video,code,slide |
-| Gayathri        | @GAF2004        | video,code,slide |
-
-
 ## About:
 
 This is a Mini project for SC1015, Titled as Optimizing Marketing Strategies with PCA and Clustering Analysis. Dataset used- Customer personality Analysis (Kaggle). The dataset contained 2240 rows of data both numerical and categorical.The dataset was chosen to analyze customer behavior and identify target groups for promotional campaigns based on various features related to customer demographics, purchasing history, and responses to previous marketing efforts.
@@ -124,6 +114,15 @@ https://youtu.be/n5mY__b6nV8
 
 ### PowerPoint Presentation
 https://www.canva.com/design/DAGCpT6Lf1w/DFxd6B6baC5T0qCkF1xXKA/edit?utm_content=DAGCpT6Lf1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+Contributors: 
+| Contributors    | Github account  | Contribution     |
+|-----------------|-----------------|------------------|
+| Angelina        | @fishingbowl169 | video,code,slide |
+| Feng Yuan       | @leftrightworld | video,code,slide |
+| Gayathri        | @GAF2004        | video,code,slide |
 
 
 
