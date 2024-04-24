@@ -35,7 +35,7 @@ Fill missing values with median
 - Income was the only one with missing values. Due to high outliers, we used median to fill the NULL values.
   
 Increase interpretability 
--Converted the 'Dt_Customer' column from object to datetime format to calculate the duration of each customer's enrollment with the company, which improves interpretability.
+- Converted the 'Dt_Customer' column from object to datetime format to calculate the duration of each customer's enrollment with the company, which improves interpretability.
 - Explored the unique values in the 'Marital_Status' and 'Education' columns.  
 - Conducted abstraction and simplify values to either alone/partner and undergraduate/graduate/Post graduate
 - Changed feature names like amtwinebought to wine to improve readability
