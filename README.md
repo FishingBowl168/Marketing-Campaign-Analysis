@@ -32,7 +32,8 @@ To maximise company profits, how can we succinctly assess individual features' i
 ## Data Preparation:
 
 Fill missing values with median 
-- Income was the only one with missing values. Due to high outliers, we used median to fill the NULL values. 
+- Income was the only one with missing values. Due to high outliers, we used median to fill the NULL values.
+  
 Increase interpretability 
 -Converted the 'Dt_Customer' column from object to datetime format to calculate the duration of each customer's enrollment with the company, which improves interpretability.
 - Explored the unique values in the 'Marital_Status' and 'Education' columns.  
